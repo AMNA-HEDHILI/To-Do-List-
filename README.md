@@ -124,6 +124,3 @@ localStorage.setItem("todoTasks", ...);  // Change "todoTasks" to your key
 
 
 
-
-
-mmit it to your repository!
