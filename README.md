@@ -105,7 +105,7 @@ location.reload();
 ### Change default tasks
 Edit line in `script.js`:
 ```javascript
-const defaultTasks = ["wash dishes", "edit resume", "finish Codedex course"];
+const defaultTasks = ["Post on linkedin", "Edit resume", "Finish data analytics course"];
 ```
 
 ### Modify colors
