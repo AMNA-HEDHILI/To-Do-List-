@@ -18,33 +18,16 @@ A beautiful, modern task management application with persistent storage. Add, ed
 - 🎨 **Modern UI** - Gradient background with glassmorphism effects
 
 
-```
 
-## 🛠️ Technologies Used
 
-- **HTML5** - Structure and semantics
-- **CSS3** - Styling, gradients, and responsive design
-- **JavaScript (ES6)** - DOM manipulation and localStorage API
-- **LocalStorage** - Browser-based persistent data storage
-
-## 📁 Project Structure
-
-```
-todo-list-app/
-│
-├── index.html          # Main HTML structure
-├── style.css           # Styling and responsive design
-├── script.js           # Application logic and localStorage handling
-└── README.md           # Project documentation
-```
 
 ## 🏃‍♂️ How to Run Locally
 
-### Prerequisites
+## Prerequisites
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 - Text editor (VS Code, Sublime, etc.) for modifications
 
-### Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
